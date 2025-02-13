@@ -1,8 +1,8 @@
 # Firestore Client for PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ahsankhatri/firestore-php.svg?style=flat-square)](https://packagist.org/packages/ahsankhatri/firestore-php)
-[![Total Downloads](https://img.shields.io/packagist/dt/ahsankhatri/firestore-php.svg?style=flat-square)](https://packagist.org/packages/ahsankhatri/firestore-php)
-[![License](https://poser.pugx.org/ahsankhatri/firestore-php/license?format=flat-square)](https://packagist.org/packages/ahsankhatri/firestore-php)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/shynne109/firestore-php.svg?style=flat-square)](https://packagist.org/packages/shynne109/firestore-php)
+[![Total Downloads](https://img.shields.io/packagist/dt/shynne109/firestore-php.svg?style=flat-square)](https://packagist.org/packages/shynne109/firestore-php)
+[![License](https://poser.pugx.org/shynne109/firestore-php/license?format=flat-square)](https://packagist.org/packages/shynne109/firestore-php)
 
 This package is totally based on [Firestore REST API](https://firebase.google.com/docs/firestore/use-rest-api)
 
@@ -17,14 +17,14 @@ This package is totally based on [Firestore REST API](https://firebase.google.co
 You can install the package via composer:
 
 ```bash
-composer require ahsankhatri/firestore-php
+composer require shynne109/firestore-php
 ```
 
 or install it by adding it to `composer.json` then run `composer update`
 
 ```javascript
 "require": {
-    "ahsankhatri/firestore-php": "^2.0",
+    "shynne109/firestore-php": "^2.0",
 }
 ```
 
